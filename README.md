@@ -1,5 +1,7 @@
 # Live screen share and webcam video recorder
 
+![Dashboard](screenshot.png)
+![SelectTab](screenshot2.png)
 - [An open source live screen share and webcam video recorder](#an-open-source-live-screen-share-and-webcam-video-recorder)
   - [Deploy your instance](#deploy-your-instance)
   - [Features](#features)
